@@ -1,4 +1,4 @@
-# peter_opiyo_udacity_project_two
+# WeRateDogs Analysis
 
 # Project Description
 
